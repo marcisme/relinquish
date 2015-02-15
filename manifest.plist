@@ -12,9 +12,9 @@
        <key>CFBundleVersion</key>
        <string>1</string>
        <key>CFBundleShortVersionString</key>
-       <string>0.1.0</string>
+       <string>0.1.1</string>
        <key>URL</key>
-       <string>https://github.com/marcisme/relinquish/releases/download/v0.1.0/Relinquish.safariextz</string>
+       <string>https://github.com/marcisme/relinquish/releases/download/v0.1.1/Relinquish.safariextz</string>
      </dict>
    </array>
 </dict>
