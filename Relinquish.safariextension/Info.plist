@@ -9,7 +9,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>Relinquish</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.marcisme.relinquish</string>
+	<string>com.marcisme.safari.relinquish</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
@@ -47,6 +47,8 @@
 			<string>All</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>https://raw.githubusercontent.com/marcisme/relinquish/master/manifest.plist</string>
 	<key>Website</key>
 	<string>https://github.com/marcisme/relinquish</string>
 </dict>
