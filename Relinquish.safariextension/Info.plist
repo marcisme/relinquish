@@ -48,7 +48,7 @@
 		</dict>
 	</dict>
 	<key>Update Manifest URL</key>
-	<string>https://raw.githubusercontent.com/marcisme/relinquish/master/manifest.plist</string>
+	<string>https://raw.githubusercontent.com/marcisme/relinquish/master/dist/manifest.plist</string>
 	<key>Website</key>
 	<string>https://github.com/marcisme/relinquish</string>
 </dict>
